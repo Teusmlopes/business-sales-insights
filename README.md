@@ -1,4 +1,4 @@
-📊 Análise de Vendas - Data Science
+📊 Análise de Vendas e Estratégias de Desconto - Data Science
 
 🚀 Visão Geral do Projeto
 
